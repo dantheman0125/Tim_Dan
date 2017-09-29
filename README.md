@@ -1,2 +1,0 @@
-# binky
-The Binky Project
